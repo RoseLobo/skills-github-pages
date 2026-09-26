@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2026-09-26
 ---
 ## 1. Items
 ## 2. New releases
