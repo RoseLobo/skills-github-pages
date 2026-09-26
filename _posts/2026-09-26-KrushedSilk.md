@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "Pages"
 date: 2026-09-26
 ---
 ## 1. Items
