@@ -1,5 +1,5 @@
 ---
-# title: Krushed Silk
+title: Krushed Silk
 ---
 
 ## Welcome to KrushedSilk! Home for all things crochet. 
